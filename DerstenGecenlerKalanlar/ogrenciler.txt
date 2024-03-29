@@ -1,0 +1,5 @@
+yusuf		90	90
+ahmet		89	34
+necmi		31	23
+ali		89	65
+necmi 		56	76
