@@ -1,0 +1,4 @@
+1 2 a b c d 2 3 4 5 
+1 d 3 f 4 g 5 g c 8
+2 j k 4 5 h n h g 4 
+6 4 i o p m v c 0 2
