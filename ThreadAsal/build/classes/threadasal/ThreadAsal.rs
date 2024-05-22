@@ -1,0 +1,2 @@
+threadasal.AsalSayi
+threadasal.ThreadAsal
