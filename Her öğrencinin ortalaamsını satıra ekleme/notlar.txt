@@ -1,0 +1,4 @@
+yusuf 100 90
+emin 25 89
+mert 87 34
+necati 66 76
