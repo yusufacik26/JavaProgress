@@ -1,0 +1,8 @@
+yusuf 100 90
+emin 25 89
+mert 87 34
+necati 66 76
+yusuf 100 90 85.0
+emin 25 89 54.5
+mert 87 34 51.800000000000004
+necati 66 76 64.4
