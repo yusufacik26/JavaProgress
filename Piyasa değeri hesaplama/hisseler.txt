@@ -1,0 +1,3 @@
+Google 100 32 -23
+Amazon 34 23 -3
+Apple 12 -4 9
