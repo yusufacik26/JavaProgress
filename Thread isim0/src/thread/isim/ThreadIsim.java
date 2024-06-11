@@ -41,14 +41,14 @@ public class ThreadIsim {
             yaz y1= new yaz("yusuf",true);
             yaz y2= new yaz("acik",true);
             y1.start();
-            
+            y2.start();
             try {Thread.sleep(10000);
                 
             } catch (Exception e) {
             }
             y1.stopped(false);
             
-           y2.start();
+           
             try {
                 Thread.sleep(3000);
             } catch (Exception e) {
