@@ -1,0 +1,2 @@
+Ayşe,Business,86.0
+Zeynep,Engineering,92.0

@@ -1,0 +1,6 @@
+Ali,Computer Science,85,90,78
+Ayşe,Business,92,88,80
+Mehmet,Engineering,76,85,89
+Fatma,Computer Science,88,79,84
+Ahmet,Business,64,75,70
+Zeynep,Engineering,93,90,95
