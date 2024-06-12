@@ -1,0 +1,6 @@
+Ali,7500,IT
+Ayşe,8500,HR
+Mehmet,6700,Finance
+Fatma,9500,IT
+Ahmet,5000,Sales
+Zeynep,6000,HR
