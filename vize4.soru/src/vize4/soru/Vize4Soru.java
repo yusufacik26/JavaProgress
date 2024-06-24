@@ -12,8 +12,6 @@ public class Vize4Soru {
     Scanner k = new Scanner(System.in);
     int count =0;
         try {
-            File dosya= new File("dosya.txt");
-            PrintWriter yaz= new PrintWriter(new FileOutputStream(dosya,true));
             PrintWriter yaz= new PrintWriter(new FileOutputStream("degerler.txt",true));
             
             while(count<30){
