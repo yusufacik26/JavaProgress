@@ -14,14 +14,12 @@ public class Vize4Soru {
         try {
             PrintWriter yaz= new PrintWriter(new FileOutputStream("degerler.txt",true));
             
-            while(count<30){
             while(count<5){
             int ct=0;
                 
                 
             int num=k.nextInt();
              
-                for (int i = 2; i < num/2; i++) {
                 for (int i = 2; i < num; i++) {
                     if(num%i==0) ct++;
                 }
@@ -29,7 +27,7 @@ public class Vize4Soru {
              yaz.println(num);
              count++;
              }
-             yaz.close();
+           
             
             
             
